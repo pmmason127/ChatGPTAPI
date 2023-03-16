@@ -4,7 +4,7 @@ A basic implementation of ChatGPT that can carry a continuous conversation
 '''
 
 # openAI user key for pmarkmason account
-openai.api_key = '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'
+openai.api_key = 'PUT KEY HERE'		# go to platform.openai.com, under profile, look at APIs and generate an API key, paste that here.
 
 # Initialized conversation variable
 messages = [{"role": "system", "content": "You are a helpful assistant"}]
